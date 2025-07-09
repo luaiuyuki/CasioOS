@@ -1,4 +1,4 @@
-# CasioOS Kernel
+# 🚀 CasioOS Kernel
 ### Result:
 
 ![482378260_1185739936271069_3704616666524886466_n (1)](https://github.com/user-attachments/assets/ba790cc9-fa15-4604-8a27-ea3277f87768)
@@ -14,7 +14,7 @@
 ![482278215_511801818335363_8705399941004492762_n](https://github.com/user-attachments/assets/7ae7a5f3-d728-4f28-90ef-27093e559195)
 
 
-## Giới thiệu
+## 📝 Giới thiệu:
 
 CasioOS là một hệ điều hành (Operating System) được phát triển hướng đến nền tảng máy tính Casio hoặc môi trường giả lập, nhằm mục đích nghiên cứu, học tập và thử nghiệm các kiến thức hệ điều hành cơ bản.
 
@@ -22,7 +22,7 @@ Thư mục `kernel` chứa mã nguồn phần nhân (kernel) - thành phần tru
 
 ---
 
-## Tính năng chính
+## ⚙️ Tính năng chính:
 
 - Quản lý bộ nhớ đơn giản
 - Xử lý ngắt cơ bản
@@ -32,7 +32,7 @@ Thư mục `kernel` chứa mã nguồn phần nhân (kernel) - thành phần tru
 
 ---
 
-## Yêu cầu môi trường
+## 🛠️ Yêu cầu môi trường:
 
 - **Hệ điều hành:** Linux / macOS / Windows (với WSL hoặc môi trường tương đương)  
 - **Trình biên dịch:** GCC hoặc Clang hỗ trợ chuẩn C99 trở lên  
